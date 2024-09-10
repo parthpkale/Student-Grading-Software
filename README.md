@@ -1,2 +1,2 @@
-# student-grading-application
+# student-grading-software
 This application allows teachers to grade student assignments using object-oriented programming (OOP). The Main.java is the main program which connects two classes: TeacherClass.java and Files.java. TeacherClass.java contains various methods and functions which allows the application to perform its intended task. In addition to the two classes and Main.java, a blank .txt file also exists. The application allows users (teachers) to create accounts using username and password. The application can hold an unlimited number of accounts, memory providing. The Files.java allows the application to write and read from the .txt file.
