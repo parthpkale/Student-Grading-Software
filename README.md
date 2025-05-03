@@ -19,7 +19,7 @@ A Java-based application designed to help teachers grade student assignments eff
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/Tank-Wars-Video-Game.git
+git clone https://github.com/yourusername/Student-Grading-Software.git
 ```
 
 2. Navigate to the project directory:
